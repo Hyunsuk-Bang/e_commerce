@@ -1,0 +1,57 @@
+BASIC AUCTION RULES
+1. User create 'items' to sell
+2. Items have a string price and an ending time
+3. Other users can 'bid' on an item. A bid must be higher than all previous bid
+4. At the ending time, thje user with the highest bid wins the items
+
+
+
+MAIN PAGE: 
+1. search interface || sign in || sign up
+2. Most Expensive
+    - Name
+    - Image
+    - time left
+    - price
+
+3. Ending Soonest
+    - Name
+    - Image
+    - time left
+    - price
+
+
+4. Most View
+    - Name
+    - Image
+    - time left
+    - Views (User who have already clicked certain item cannot affect views anymore)
+    - price
+
+
+SIGN IN PAGE:
+
+SIGN UP PAGE:
+
+ITEM CREATE PAGE
+- Item Name
+- Description
+- Duration
+
+
+ITEM SHOW PAGE:
+- img
+- title
+- seller info link
+- like / unlike buttons with current like 
+- Highest Bid | # of Bid | Ending in 11 hours
+- Place a Bid [$~~ minimum] with submit button
+- Chart to display the changes of bid
+- similar items ... ?
+
+SELLER PROFILE 
+- [User name's profile]
+- ITEM that current user and seller both like
+
+
+DASHBOARD
